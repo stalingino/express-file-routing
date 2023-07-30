@@ -8,9 +8,6 @@
 # testing
 /coverage
 
-# build
-/dist
-
 # env
 .env
 .env.local
